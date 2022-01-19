@@ -31,4 +31,4 @@ ForEach ($thing in $things) {
 }
 ```
 
-![Selecting Battery](/Images/battery.png)
+![Selecting Battery](/_posts/Images/battery.png)
